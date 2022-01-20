@@ -19,7 +19,7 @@ I am a fullstack engineer. I have hands on experienceworking with web frameworks
 ## Education
 
 ### **APJ Abdul Kalam Technological University**
-### BTech Computer Science (2015- 2019)
+### BTech Computer Science
 
 ---
 
